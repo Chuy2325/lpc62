@@ -20,3 +20,8 @@ def get_pokemon (url ='http://pokeapi.co/api/v2/pokemon-form/', offset=0):
 if __name__ == '__main__':
   url = 'http://pokeapi.co/api/v2/pokemon-form/'
   get_pokemon()
+  # Script en python que consulta el api de pokemon 
+  # para listar los nombres de pokemon pero se le agrego 
+  # interacción para que listaras más pokemons segun se vaya requiriendo. 
+  # Contribuyo: <Aquí va tu nombre> 
+  # Fecha: <2/19/2023> 
